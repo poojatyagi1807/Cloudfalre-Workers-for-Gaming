@@ -1,1 +1,1 @@
-# Cloudfalre-Workers-for-Gaming
+# Cloudflare-Workers-for-Gaming
